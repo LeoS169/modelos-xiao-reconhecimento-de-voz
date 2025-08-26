@@ -19,8 +19,9 @@ A terceira versão utiliza audios gravados direto da placa de desenvolvimento, o
 ### V4
 Melhora da versão V3 com incrementação de dados de voz e dados de ruido de fundo, que ajudaram na acuracia do projeto.
 
-
 ### V5 
 Melhora na versão V4 com maiores dados de áudio e de ruido de fundo.
 
+### V6
+Nova versão com com audios de ruidos de conversa e nova voz no banco de dados de comandos.
 
