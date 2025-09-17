@@ -24,3 +24,20 @@ Melhora da versão V3 com incrementação de dados de voz e dados de ruido de fu
 Melhora na versão V4 com maiores dados de áudio e de ruido de fundo.
 
 
+### V6
+Nova versão com novos áudios de voz e ruído de fundo. A configuração do modelo não condiz com as especificações da placa. Erro no buffer de áudio da placa.
+
+
+#### *Imagem do erro:*
+<img src="xiao_chiuauaV6/ERRO_BUFFER_AUDIO.jpg">
+
+#### *Configurções usadas:*
+
+<div style="display: flex">
+    <img src="xiao_chiuauaV6/parametros_usados.png" style="height: 8cm; margin-right: 10px">
+    <img src="xiao_chiuauaV6/referência_de_desenvolvimento.png" style;"> 
+</div>
+
+
+### V7
+Versão com correção do erro anterior.
